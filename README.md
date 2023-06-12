@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm Anujaya Ranathunge</h1>
 <h3 align="center">A passionate frI am Anujaya Ranathunge Undergraduate Software Engineering UOW | Software Developer | Experience with Java, Python, React and Javascript.</h3>
